@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JediGalaxy", "JediGalaxy\JediGalaxy.csproj", "{B1F56155-B162-4E0A-AD4C-513A18119CF4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sneaking", "Sneaking\Sneaking.csproj", "{BECF9185-CC59-4FE9-8E31-D8CC6CFE9A0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mihi", "Mihi\Mihi.csproj", "{680487A4-4D16-47A8-ACC2-BB4972FFF7CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1F56155-B162-4E0A-AD4C-513A18119CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F56155-B162-4E0A-AD4C-513A18119CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F56155-B162-4E0A-AD4C-513A18119CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F56155-B162-4E0A-AD4C-513A18119CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BECF9185-CC59-4FE9-8E31-D8CC6CFE9A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BECF9185-CC59-4FE9-8E31-D8CC6CFE9A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BECF9185-CC59-4FE9-8E31-D8CC6CFE9A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BECF9185-CC59-4FE9-8E31-D8CC6CFE9A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{680487A4-4D16-47A8-ACC2-BB4972FFF7CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680487A4-4D16-47A8-ACC2-BB4972FFF7CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680487A4-4D16-47A8-ACC2-BB4972FFF7CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680487A4-4D16-47A8-ACC2-BB4972FFF7CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A34BE12B-E158-4B26-A005-B601FEBD66F0}
+	EndGlobalSection
+EndGlobal

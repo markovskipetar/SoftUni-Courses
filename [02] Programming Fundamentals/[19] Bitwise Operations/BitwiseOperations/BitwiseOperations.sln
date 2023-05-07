@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29521.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryDigitsCount", "BinaryDigitsCount\BinaryDigitsCount.csproj", "{F36F2AE9-B8DA-4B44-BFCF-738B6C44360E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitAtPositionOne", "BitAtPositionOne\BitAtPositionOne.csproj", "{63B4AD40-7602-40BD-A59A-8F1BECD52CD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PthBit", "PthBit\PthBit.csproj", "{E6089636-A16B-4318-B829-F6C1AFE76D98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitDestroyer", "BitDestroyer\BitDestroyer.csproj", "{8123794F-1722-4409-AEEE-FCF6F52C6CDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriBitSwitch", "TriBitSwitch\TriBitSwitch.csproj", "{0D2F6B83-E1A9-4121-B2BE-60ECA8690D03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F36F2AE9-B8DA-4B44-BFCF-738B6C44360E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36F2AE9-B8DA-4B44-BFCF-738B6C44360E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36F2AE9-B8DA-4B44-BFCF-738B6C44360E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36F2AE9-B8DA-4B44-BFCF-738B6C44360E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63B4AD40-7602-40BD-A59A-8F1BECD52CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B4AD40-7602-40BD-A59A-8F1BECD52CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B4AD40-7602-40BD-A59A-8F1BECD52CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B4AD40-7602-40BD-A59A-8F1BECD52CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6089636-A16B-4318-B829-F6C1AFE76D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6089636-A16B-4318-B829-F6C1AFE76D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6089636-A16B-4318-B829-F6C1AFE76D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6089636-A16B-4318-B829-F6C1AFE76D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8123794F-1722-4409-AEEE-FCF6F52C6CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8123794F-1722-4409-AEEE-FCF6F52C6CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8123794F-1722-4409-AEEE-FCF6F52C6CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8123794F-1722-4409-AEEE-FCF6F52C6CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D2F6B83-E1A9-4121-B2BE-60ECA8690D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D2F6B83-E1A9-4121-B2BE-60ECA8690D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D2F6B83-E1A9-4121-B2BE-60ECA8690D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D2F6B83-E1A9-4121-B2BE-60ECA8690D03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60CB8788-3DF6-45DF-9A5E-CC0AB8A4B5FE}
+	EndGlobalSection
+EndGlobal

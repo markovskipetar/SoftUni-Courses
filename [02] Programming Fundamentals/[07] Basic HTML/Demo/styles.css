@@ -1,0 +1,58 @@
+.demp{
+    display: inline-block;
+    width: 30%;
+    margin-left:2%;
+    vertical-align: top;
+}
+
+span{
+    font-weight: bold;
+    border-style: dotted;
+    border-color: darkcyan;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+
+p{
+    color: darkviolet;
+}
+
+ol{
+    border: 2px solid yellow;
+}
+
+li{
+    border: 2px solid yellow;
+}
+
+.blocks div{
+    display: inline-block;
+    padding: 20px;
+    border: 3px solid yellow;
+    margin: 20px;
+    font-family: 'Comic Neue', cursive;
+    color: white;
+}
+
+#green{
+    background-color: green;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#red{
+    background-color: red;
+}
+
+#purple{
+    background-color: purple;
+}
+
+#orange{
+    background-color: orange;
+}
